@@ -4,7 +4,7 @@ Module for use in [pathogen](https://github.com/tpope/vim-pathogen).
 
 ## Thanks
 
-This is the personal version of [gonz_](https://github.com/GoNZooo), which is only adding a few keywords and will be an attempt to whichever small things need adding in the future.
+This is the personal version of [gonz_](https://github.com/GoNZooo), which is only adding a few keywords and will be an attempt to add whichever small things need adding in the future.
 
 This is a fork of [vim-racket by Will Langstroth](https://github.com/wlangstroth) and all credit goes to him and the people he references below:
 
