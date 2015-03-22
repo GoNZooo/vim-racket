@@ -33,7 +33,7 @@ syn keyword racketSyntax let-values let*-values let-syntax letrec-syntax
 syn keyword racketSyntax let-syntaxes letrec-syntaxes letrec-syntaxes+values
 syn keyword racketSyntax local shared
 syn keyword racketSyntax if cond and or case define
-syn keyword racketSyntax define define-values define-syntax define-syntaxes
+syn keyword racketSyntax define define-values define-syntax define-syntaxes define/tc
 syn keyword racketSyntax define-for-syntax define-require-syntax define-provide-syntax
 syn keyword racketSyntax define-syntax-rule
 syn keyword racketSyntax define-record-type
