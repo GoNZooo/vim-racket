@@ -1,8 +1,8 @@
 " Vim syntax file
-" Language:     Racket 5.1
-" Maintainer:   Will Langstroth <will@langstroth.com>
-" URL:          http://github.com/wlangstroth/vim-racket.git
-" Last Change:  2012-02-18
+" Language:     Racket
+" Maintainer:   Rickard Andersson <rickard.m.andersson@gmail.com>
+" URL:          http://github.com/GoNZooo/vim-racket
+" Last Change:  2015-03-22
 " Description:  Contains all of the keywords in #lang racket
 
 " Initializing:
